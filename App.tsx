@@ -146,7 +146,7 @@ export default function App() {
           disabled={!isValid}
           onPress={handleSubmit}
           >
-           <Text style={styles.Btntext}>Generate Password</Text>
+           <Text style={styles.Btntext}>Generate Password 🔑</Text>
           </TouchableOpacity>
           <TouchableOpacity
           style={styles.secondaryBn}
